@@ -1,3 +1,8 @@
+# Exercise Tracker
+I have Created a exercise tracker with the help of React.js Node.js Express.js and MongoDB.
+
+You can create exercises,edit them and delete them.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
